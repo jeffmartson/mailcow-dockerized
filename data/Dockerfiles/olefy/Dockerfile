@@ -1,4 +1,4 @@
-FROM alpine:3.17
+FROM alpine:3.21.0
 LABEL maintainer "The Infrastructure Company GmbH <info@servercow.de>"
 
 WORKDIR /app
